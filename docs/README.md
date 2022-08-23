@@ -92,6 +92,8 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 
 [MiraiBots.jl]: https://github.com/melonedo/MiraiBots.jl
 
+[Novices666/mirai-epl]: https://github.com/Novices666/mirai-epl
+
 ### 原生接口
 
 这些接口直接在 JVM 上实现，不需要中间件，拥有更佳的性能。
@@ -146,7 +148,8 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 | `Python`                  | [Excaive/miraicle]                   |
 | `Ruby`                    | [Shimogawa/rubirai]                  |
 | `Rust`                    | [HoshinoTented/mirai-rs]             |
-| `易语言`                     | [only52607/e-mirai]                  |
+| `易语言`                     | [only52607/e-mirai]                |
+| `易语言`                     | [Novices666/mirai-epl]               |
 
 > 按字母顺序排序，排序不代表排名  
 > *
